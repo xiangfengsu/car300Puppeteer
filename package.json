@@ -1,0 +1,11 @@
+{
+  "name": "car300Puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "css.escape": "^1.5.1",
+    "node-fetch": "^2.3.0",
+    "puppeteer": "^1.13.0"
+  }
+}
